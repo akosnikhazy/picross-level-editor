@@ -1,0 +1,10 @@
+c:\users\1\documents\visual studio 2015\Projects\PicrossEditor\bin\Debug\PicrossEditor.exe.config
+c:\users\1\documents\visual studio 2015\Projects\PicrossEditor\bin\Debug\PicrossEditor.exe
+c:\users\1\documents\visual studio 2015\Projects\PicrossEditor\bin\Debug\PicrossEditor.pdb
+c:\users\1\documents\visual studio 2015\Projects\PicrossEditor\obj\Debug\PicrossEditor.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2015\Projects\PicrossEditor\obj\Debug\PicrossEditor.Form1.resources
+c:\users\1\documents\visual studio 2015\Projects\PicrossEditor\obj\Debug\PicrossEditor.Properties.Resources.resources
+c:\users\1\documents\visual studio 2015\Projects\PicrossEditor\obj\Debug\PicrossEditor.csproj.GenerateResource.Cache
+c:\users\1\documents\visual studio 2015\Projects\PicrossEditor\obj\Debug\PicrossEditor.exe
+c:\users\1\documents\visual studio 2015\Projects\PicrossEditor\obj\Debug\PicrossEditor.pdb
+c:\users\1\documents\visual studio 2015\Projects\PicrossEditor\obj\Debug\PicrossEditor.Editor.resources
